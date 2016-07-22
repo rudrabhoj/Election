@@ -1,0 +1,25 @@
+{
+  "name": "election",
+  "version": "1.0.0",
+  "description": "Only 18+ are allowed to vote.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudrabhoj/Election.git"
+  },
+  "keywords": [
+    "election"
+  ],
+  "author": "Rudrabhoj Bhati",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/rudrabhoj/Election/issues"
+  },
+  "homepage": "https://github.com/rudrabhoj/Election#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
